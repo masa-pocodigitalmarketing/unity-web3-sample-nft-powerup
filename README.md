@@ -1,4 +1,8 @@
-# 🎮 Web3 Game Power-Ups 🎮
+Finished Moralis project # 🎮 Web3 Game Power-Ups 🎮
+
+![スクリーンショット 2022-07-17 025454](https://user-images.githubusercontent.com/47092186/179374368-70cbe8c2-41fc-4a12-a3f9-00c84ba02085.png)
+![スクリーンショット 2022-07-17 030646](https://user-images.githubusercontent.com/47092186/179374370-1c69466d-4811-4faf-8f3c-8f98c5ded2fa.png)
+
 
 In this week’s Moralis Project we’ll go a step forward in relation to NFT use cases in Web3 Games. In some of previous Unity Projects we converted game items into NFTs but this time we’re going to do the reverse.
 
